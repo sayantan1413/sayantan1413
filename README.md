@@ -8,7 +8,6 @@
 - 📫 Reach me at https://www.linkedin.com/in/sayantan-bose-14134a1a6/<br>
 - 😄 Pronouns: his/him<br>
 
-![sayantan1413's github stats](https://github-readme-stats.vercel.app/api?username=sayantan1413&show_icons=true&theme=tokyonight)
-[![sayantan1413 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&layout=demo)](https://github.com/sayantan1413/github-readme-stats)
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&show_icons=true&theme=tokyonight" alt="sayantan1413" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantan1413&show_icons=true&locale=en&layout=demo" alt="sayantan1413" /></p>
 
