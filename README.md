@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on DS Algo skills<br>
 - 🌱 I’m currently learning web develeopement<br>
 - 👯 I’m looking to collaborate on Oppia<br>
-- 🤔 I’m looking for help from an open source organizer mentor<br>
+- 🤔 I’m looking for help on DS Algo<br>
 - 📫 Reach me at https://www.linkedin.com/in/sayantan-bose-14134a1a6/<br>
 - 😄 Pronouns: his/him<br>
 <br>
