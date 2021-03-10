@@ -1,5 +1,11 @@
 ### <h1 align="center">Hi there 👋, It's Sayantan here. <h1>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
+ 
+[![codechef badge](https://img.shields.io/badge/sayantan1413-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/sayantan1413)
+[![hackerrank badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/sayantanbose2001)
+[![geeksforgeeks badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/sayantanbose2001/practice)
+[![leetcode badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=leetcode)](https://leetcode.com/sayantanbose2001)
+![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
 
 - 20 years old
 - CSE Undergrad
