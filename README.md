@@ -25,7 +25,10 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg" alt="python" width="40" height="40"/></p>
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/bootstrap.svg" alt="python" width="40" height="40"/></p>
+
+</p>
+<p align="center">
+ <img src="https://github.com/gilbarbara/logos/blob/master/logos/bootstrap.svg" alt="python" width="40" height="40"/></p>
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&count_private=true&hide_border=false&show_icons=true&theme=dark" />
