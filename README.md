@@ -29,6 +29,8 @@
 </p>
 <p align="center">
  <img src="https://github.com/gilbarbara/logos/blob/master/logos/bootstrap.svg" alt="python" width="40" height="40"/></p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="python" width="40" height="40"/></p>
+ 
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&count_private=true&hide_border=false&show_icons=true&theme=dark" />
