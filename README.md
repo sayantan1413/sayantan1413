@@ -12,8 +12,9 @@
 
 - 20 years old
 - CSE Undergrad
-- Web Developer, Game Developer
 - Competitive Programmer
+- Web Developer
+- Narula Institute Of Technology, Kolkata
 - 🌱 I’m currently establishing **Myself**
 - 👨‍💻 Currently working on **DS ALGO**
 - 💬 Ask me about **Competitive Programming**
