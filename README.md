@@ -5,8 +5,8 @@
 [![hackerrank badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/sayantanbose2001)
 [![geeksforgeeks badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/sayantanbose2001/practice)
 [![leetcode badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=leetcode)](https://leetcode.com/sayantanbose2001)
-![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
 
+![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
 ![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27ve%20Written&message=4235679%20lines%20of%20code&color=orange)
 
 
