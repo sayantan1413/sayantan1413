@@ -38,6 +38,8 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayantan1413)
 
+![Sayantan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sayantan1413)
+
 <h2 align="center" >Connect with me</h2>
 <div align="center">
 <a href="https://twitter.com/sayanta33163352" target="_blank">
