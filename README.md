@@ -1,11 +1,14 @@
 ### <h1 align="center">Hi there 👋, It's Sayantan here. <h1>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
- 
+
 [![codechef badge](https://img.shields.io/badge/sayantan1413-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/sayantan1413)
 [![hackerrank badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/sayantanbose2001)
 [![geeksforgeeks badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/sayantanbose2001/practice)
 [![leetcode badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=leetcode)](https://leetcode.com/sayantanbose2001)
 ![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
+
+![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27he%20Written&message=4235679%20lines%20of%20code&color=orange)
+
 
 - 20 years old
 - CSE Undergrad
@@ -53,4 +56,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-
