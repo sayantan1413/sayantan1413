@@ -36,6 +36,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan1413&theme=tokyonight)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayantan1413)
 
 <h2 align="center" >Connect with me</h2>
 <div align="center">
