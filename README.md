@@ -41,7 +41,7 @@
 
 ![Sayantan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sayantan1413)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayantan1413)]
+![Sayantan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayantan1413)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayantan1413)
 
