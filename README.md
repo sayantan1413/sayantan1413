@@ -17,6 +17,7 @@
 - Competitive Programmer
 - Web Developer
 - Narula Institute Of Technology, Kolkata
+- 2019-2023
 - 🌱 I’m currently establishing **Myself**
 - 👨‍💻 Currently working on **DS ALGO**
 - 💬 Ask me about **Competitive Programming**
