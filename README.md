@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there 👋, It's Sayantan here. <h1>
+### <h1 align="center">Hello there 👋, It's Sayantan here. <h1>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
   
   <div></div>
