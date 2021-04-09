@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on any **ds algo project**
 - 🤔 I'm looking for help to improve my **ds algo skills**
 - 🔭 I currently need help to learn advanced ds algo and cloud computing.
-- ⚡ Fun fact: !(coding > oxygen).
+- ⚡ Fun fact: !(coding > oxygen)
 
 ## Tech Stack
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
