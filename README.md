@@ -15,7 +15,7 @@
 - 20 years old
 - CSE Undergrad
 - Competitive Programmer
-- Web Developer
+- FrontEnd Web Developer
 - Narula Institute Of Technology, Kolkata
 - 2019-2023
 - 🌱 I’m currently establishing **Myself**
