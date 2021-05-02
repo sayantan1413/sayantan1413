@@ -12,7 +12,7 @@
 ![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27ve%20Written&message=4235679%20lines%20of%20code&color=green)
 
 
-- 20 years old
+- 20 year old
 - CSE Undergrad
 - Competitive Programmer
 - FrontEnd Web Developer
@@ -20,7 +20,7 @@
 - 2019-2023
 - 🌱 I’m currently establishing **Myself**
 - 👨‍💻 Currently working on **DS ALGO**
-- 💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **Competitive Programming in C++**
 - 👨‍💻 All of my projects are available **here**
 - 📫 How to reach me: **sayantanbose2001@gmail.com**
 - 👯 I’m looking to collaborate on any **ds algo project**
