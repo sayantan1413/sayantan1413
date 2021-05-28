@@ -24,7 +24,7 @@
 - 💬 Ask me about **Competitive Programming in C++**
 - 👨‍💻 All of my projects are available **here**
 - 📫 Reach me at: **sayantanbose2001@gmail.com**
-- 👯 I’m looking to collaborate on any **Javascript project**
+- 👯 I’m looking to collaborate on with **LAYER5 project**
 - 🤔 I'm looking for help to improve my **javascript skills**
 - 🔭 I currently need help to learn advanced ds algo and cloud computing.
 - ⚡ Fun fact: !(coding > oxygen)
