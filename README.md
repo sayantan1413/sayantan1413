@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ![Sayantan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayantan1413)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayantan1413)
+<img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
 <h2 align="center" >Connect with me</h2>
 <div align="center">
