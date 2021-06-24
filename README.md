@@ -46,6 +46,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan1413&theme=tokyonight)
 
 ![Sayantan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sayantan1413)
+  
+![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=great-gatsby&layout=compact)
 
 ![Sayantan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayantan1413)
 
