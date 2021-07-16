@@ -1,5 +1,6 @@
 ### <h1 align="center">Hello there 👋, It's Sayantan here. <h1>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400px" />
+  
   
   <div></div>
   
@@ -38,33 +39,42 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="45"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;
 </p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sayantan1413&theme=onedark&column=3&margin-w=15&margin-h=15">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&count_private=true&hide_border=false&show_icons=true&theme=dark" />
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan1413&theme=tokyonight)
-
-![Sayantan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sayantan1413)
+<br>
   
-![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=great-gatsby&layout=compact)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayantan1413&theme=onedark" align="center"/>
+</div>  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
 
-![Sayantan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayantan1413)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
-<h2 align="center" >Connect with me</h2>
+
+  
+![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=tokyonight&layout=compact&width=100&height=50)
+
+<h1 align="center"> 🔥 Contributions: </h1>
+  <br>
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=sayantan1413&theme=tokyonight&background=0d1117&border=666">
+<br>
+ <br>
+      <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" />
+  </p>    
+<br>
+<h1 align="center" >Connect with me📬 </h1>
 <div align="center">
 <a href="https://twitter.com/sayanta33163352" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/plasticine/60/000000/twitter--v2.png"/ alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:sayantanbose2001@gmail.com?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/ultraviolet/60/000000/gmail--v2.png"/ alt=gmail style="margin-bottom: 5px, margin-left: 5px;" />
 </a> 
 <a href="https://www.linkedin.com/in/sayantan-bose-14134a1a6/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/doodle/60/000000/linkedin--v2.png"/ alt=Linkedin style="margin-bottom: 5px,margin-left: 5px;" />
 </a>
 <a href="https://github.com/sayantan1413" target="_blank">
-<img src=https://img.shields.io/badge/github-%C0C0C0.svg?&style=for-the-badge&logo=github&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/plasticine/65/000000/github.png"/ alt=Linkedin style="margin-bottom: 5px,margin-left: 2px;" />
 </a>
 </div>
