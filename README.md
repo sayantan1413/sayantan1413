@@ -38,18 +38,22 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="45"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;
 </p>
-
+<br>
+  
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sayantan1413&theme=onedark&column=3&margin-w=15&margin-h=15">
-
+  </div>
+  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&count_private=true&hide_border=false&show_icons=true&theme=dark" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan1413&theme=tokyonight)
 
-![Sayantan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sayantan1413)
+
   
 ![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=great-gatsby&layout=compact)
 
-![Sayantan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayantan1413)
+<h1 align="center"> 🔥 Contributions: </h1>
+ 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
