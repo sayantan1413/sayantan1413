@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br>
   
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayanatan1413&column=6&theme=onedark" align="center"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sayantan1413&theme=onedark" align="center"/>
 </div>  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
 
