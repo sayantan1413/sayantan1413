@@ -73,6 +73,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png"/ alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/sayantan1413" target="_blank">
-<img src="https://img.icons8.com/plasticine/100/000000/github.png"/ alt=Linkedin style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/plasticine/50/000000/github.png"/ alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
