@@ -54,7 +54,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <h1 align="center"> 🔥 Contributions: </h1>
   <p align="center">
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan1413&theme=tokyonight)
+    <a href="https://git.io/streak-stats">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=sayantan1413&theme=tokyonight&background=0d1117&border=666">
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
   </p>    
