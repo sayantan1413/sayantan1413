@@ -46,17 +46,19 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayantan1413&count_private=true&hide_border=false&show_icons=true&theme=dark" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan1413&theme=tokyonight)
+
 
 
   
 ![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=great-gatsby&layout=compact)
 
 <h1 align="center"> 🔥 Contributions: </h1>
- 
-
+  <p align="center">
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan1413&theme=tokyonight)
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-
+  </p>    
+<br>
 <h2 align="center" >Connect with me</h2>
 <div align="center">
 <a href="https://twitter.com/sayanta33163352" target="_blank">
