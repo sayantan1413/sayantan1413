@@ -50,14 +50,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
   
-![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=great-gatsby&layout=compact)
+![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=tokyonight&layout=compact&width=100&height=50)
 
 <h1 align="center"> 🔥 Contributions: </h1>
   <p align="center">
     <a href="https://git.io/streak-stats">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=sayantan1413&theme=tokyonight&background=0d1117&border=666">
 <br>
-      
+ <br>
+      <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" />
   </p>    
 <br>
