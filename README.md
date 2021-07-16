@@ -70,7 +70,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.linkedin.com/in/sayantan-bose-14134a1a6/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/ alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/sayantan1413" target="_blank">
 <img src="https://img.icons8.com/plasticine/100/000000/github.png"/ alt=Linkedin style="margin-bottom: 5px;" />
