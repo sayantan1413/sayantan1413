@@ -48,7 +48,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-
+![Sayantan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayantan1413)
   
 ![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=tokyonight&layout=compact&width=100&height=50)
 
