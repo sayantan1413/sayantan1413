@@ -53,7 +53,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   
 ![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1413&theme=tokyonight&layout=compact&width=100&height=50)
 
-<h1 align="center"> 🔥 Contributions: </h1>
+<h1 align="center">⭐️ Contributions: ⭐️</h1>
   <br>
   <p align="center">
     <a href="https://git.io/streak-stats">
