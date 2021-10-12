@@ -14,7 +14,7 @@
 ![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27ve%20Written&message=4235679%20lines%20of%20code&color=green)
 
 
-- 20 year old
+- 20 years old
 - CSE Undergrad
 - Competitive Programmer
 - FrontEnd Web Developer
