@@ -23,7 +23,6 @@
 - 🌱 I’m currently establishing **Myself**
 - 👨‍💻 Currently working on **DS ALGO**
 - 💬 Ask me about **Competitive Programming in C++**
-- 👨‍💻 All of my projects are available **here**
 - 📫 Reach me at: **sayantanbose2001@gmail.com**
 - 👯 I’m looking to collaborate on with **[LAYER5](https://github.com/layer5io) projects**
 - 🤔 I'm looking for help to improve my **javascript skills**
