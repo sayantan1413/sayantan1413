@@ -17,7 +17,7 @@
 - 20 years old
 - CSE Undergrad
 - Competitive Programmer
-- FrontEnd Web Developer
+- FrontEnd Web-Developer
 - Narula Institute Of Technology, Kolkata
 - 2019-2023
 - 🌱 I’m currently establishing **Myself**
@@ -26,7 +26,7 @@
 - 📫 Reach me at: **sayantanbose2001@gmail.com**
 - 👯 I’m looking to collaborate on with **[LAYER5](https://github.com/layer5io) projects**
 - 🤔 I'm looking for help to improve my **Javascript skills**
-- 🔭 I currently need help to learn advanced ds algo and cloud computing.
+- 🔭 I currently need help to learn advanced DS algo and cloud computing.
 - ⚡ Fun fact: !(coding > oxygen)
 
 ## Tech Stack
