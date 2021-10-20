@@ -20,7 +20,7 @@
 - FrontEnd Web-Developer
 - Narula Institute Of Technology, Kolkata
 - 2019-2023
-- 🌱 I’m currently establishing **Myself**
+- 🌱 I’m currently preparing for interviews
 - 👨‍💻 Currently working on **DS ALGO**
 - 💬 Ask me about **Competitive Programming in C++**
 - 📫 Reach me at: **sayantanbose2001@gmail.com**
