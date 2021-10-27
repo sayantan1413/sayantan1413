@@ -27,7 +27,6 @@
 - 👯 I’m looking to collaborate on with **[LAYER5](https://github.com/layer5io) projects**
 - 🤔 I'm looking for help to improve my **Javascript skills**
 - 🔭 I currently need help to learn advanced DS algo and cloud computing.
-- ⚡ Fun fact: !(coding > oxygen)
 
 ## Tech Stack
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
