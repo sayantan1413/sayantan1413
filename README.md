@@ -26,7 +26,7 @@
 - 📫 Reach me at: **sayantanbose2001@gmail.com**
 - 👯 I’m looking to collaborate with **[LAYER5](https://github.com/layer5io) projects**
 - 🤔 I'm looking for help to improve my **Javascript skills**
-- 🔭 I currently need help to learn advanced DS algo and cloud computing.
+- 🔭 I currently need help to learn advanced DS algo.
 
 ## Tech Stack
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
