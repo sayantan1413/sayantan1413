@@ -11,7 +11,6 @@
 [![codeforces badge](https://img.shields.io/badge/sayantanbose2001-30302f?style=flat&logo=codeforces)](https://codeforces.com/profile/sayantan2001)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
-![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27ve%20Written&message=4235679%20lines%20of%20code&color=green)
 
 
 - 21 years old
