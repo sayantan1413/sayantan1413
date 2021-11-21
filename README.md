@@ -55,7 +55,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=sayantan1413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" />
   </p>    
 <br>
-<h1 align="center" >Connect with me📬 </h1>
+<h1 align="center" >Connect with me 📬 </h1>
 <div align="center">
 <a href="https://twitter.com/sayanta33163352" target="_blank">
 <img src="https://img.icons8.com/plasticine/60/000000/twitter--v2.png"/ alt=twitter style="margin-bottom: 5px;" />
