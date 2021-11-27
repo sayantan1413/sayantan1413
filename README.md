@@ -20,7 +20,7 @@
 - Narula Institute Of Technology, Kolkata
 - 2019-2023
 - 🌱 I’m currently preparing for interviews
-- 👨‍💻 Currently working on my **DS ALGO**
+- 👨‍💻 Currently working on my **DS ALGO skills**
 - 💬 Ask me about **Competitive Programming in C++**
 - 📫 Reach me at: **sayantanbose2001@gmail.com**
 - 👯 I’m looking to collaborate with **[LAYER5](https://github.com/layer5io) projects**
