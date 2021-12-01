@@ -57,7 +57,7 @@
 <br>
 <h1 align="center" >Connect with me 📬 </h1>
 <div align="center">
-<a href="https://twitter.com/sayanta33163352" target="_blank">
+<a href="https://twitter.com/Sayantan1413" target="_blank">
 <img src="https://img.icons8.com/plasticine/60/000000/twitter--v2.png"/ alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:sayantanbose2001@gmail.com?hl=en" target="_blank">
