@@ -13,7 +13,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
 
 
-- 21 years old
+- 20 years old
 - CSE Undergrad
 - Competitive Programmer
 - Frontend Developer
