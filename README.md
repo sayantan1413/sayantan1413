@@ -16,7 +16,7 @@
 - 20 years old
 - CSE Undergrad
 - Competitive Programmer
-- Full-Stack Developer
+- Full-Stack Developer (React + Spring Boot)
 - Narula Institute Of Technology, Kolkata
 - 2019-2023
 - 🌱 I’m currently preparing for interviews
