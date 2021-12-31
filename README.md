@@ -19,7 +19,7 @@
 - Full-Stack Developer (React + Spring Boot)
 - Narula Institute Of Technology, Kolkata
 - 2019-2023
-- 🌱 I’m currently preparing for interviews
+- 🌱 I’m currently preparing for technical interviews
 - 👨‍💻 Currently working on my **DS ALGO skills**
 - 💬 Ask me about **Competitive Programming in C++**
 - 📫 Reach me at: **sayantanbose2001@gmail.com**
