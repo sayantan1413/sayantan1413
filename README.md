@@ -13,7 +13,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
 
 
-- 20 year old
+- 21 year old
 - CSE Undergrad
 - Competitive Programmer
 - Full-Stack Developer (React + Spring Boot)
